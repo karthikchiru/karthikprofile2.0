@@ -413,7 +413,7 @@ text-align:center;
 .face a{
 	
 	font-size:30px;
-	color:black;
+	color:white;
 }
 .face a:hover{
 	color:blue;
@@ -421,7 +421,7 @@ text-align:center;
 .insta a{
 	
 	font-size:30px;
-	color:black;
+	color:white;
 }
 .insta a:hover{
 	color:pink;
@@ -429,7 +429,7 @@ text-align:center;
 .linkd a{
 	
 	font-size:30px;
-	color:black;
+	color:white;
 }
 .linkd a:hover{
 	color:blue;
@@ -437,7 +437,7 @@ text-align:center;
 .youtube a{
 	
 	font-size:30px;
-	color:black;
+	color:white;
 }
 .youtube a:hover{
 	color:red;
@@ -445,7 +445,7 @@ text-align:center;
 .snapchat a{
 	
 	font-size:30px;
-	color:black;
+	color:white;
 }
 .snapchat a:hover{
 	color:yellow;
@@ -453,7 +453,7 @@ text-align:center;
 .github a{
 	
 	font-size:30px;
-	color:black;
+	color:white;
 }
 .github a:hover{
 	color:gray;
@@ -466,7 +466,7 @@ text-align:center;
 
   {
 	.icons{
-	padding:50px 0px 0px;
+	
 	display:block;
 	width:90%;
 }
@@ -519,7 +519,7 @@ width:100%;
  .map{
 	  width:100%;
 	  left:-60%;
-	  padding :740px 0px 0px;
+	  padding :80px 0px 0px;
 	  float:left;
   }
  
